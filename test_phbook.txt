@@ -1,0 +1,5 @@
+The entries of the phonebook:
+Name: penss	Number: 000000
+Name: paper	Number: 222222
+Name: table	Number: 333333
+Name: chair	Number: 444444
